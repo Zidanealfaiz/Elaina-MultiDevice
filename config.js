@@ -2,9 +2,9 @@
 
 // - - ADMIN - -
 // • Ziee ganteng
-// • Danz jelek
-// • queen jelek
-// • Alam jelek
+// • Danz ganteng
+// • queen cantik
+// • Alam ganteng
 
 
 import { watchFile, unwatchFile } from 'fs'
